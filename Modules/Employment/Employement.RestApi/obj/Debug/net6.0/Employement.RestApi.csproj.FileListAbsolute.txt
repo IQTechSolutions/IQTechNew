@@ -1,0 +1,17 @@
+E:\IQTechNew\Modules\Employment\Employement.RestApi\bin\Debug\net6.0\Employement.RestApi.deps.json
+E:\IQTechNew\Modules\Employment\Employement.RestApi\bin\Debug\net6.0\Employement.RestApi.dll
+E:\IQTechNew\Modules\Employment\Employement.RestApi\bin\Debug\net6.0\Employement.RestApi.pdb
+E:\IQTechNew\Modules\Employment\Employement.RestApi\bin\Debug\net6.0\Employment.Base.dll
+E:\IQTechNew\Modules\Employment\Employement.RestApi\bin\Debug\net6.0\Employment.Services.Contracts.dll
+E:\IQTechNew\Modules\Employment\Employement.RestApi\bin\Debug\net6.0\Employment.Services.Contracts.pdb
+E:\IQTechNew\Modules\Employment\Employement.RestApi\bin\Debug\net6.0\Employment.Base.pdb
+E:\IQTechNew\Modules\Employment\Employement.RestApi\obj\Debug\net6.0\Employement.RestApi.csproj.AssemblyReference.cache
+E:\IQTechNew\Modules\Employment\Employement.RestApi\obj\Debug\net6.0\Employement.RestApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\IQTechNew\Modules\Employment\Employement.RestApi\obj\Debug\net6.0\Employement.RestApi.AssemblyInfoInputs.cache
+E:\IQTechNew\Modules\Employment\Employement.RestApi\obj\Debug\net6.0\Employement.RestApi.AssemblyInfo.cs
+E:\IQTechNew\Modules\Employment\Employement.RestApi\obj\Debug\net6.0\Employement.RestApi.csproj.CoreCompileInputs.cache
+E:\IQTechNew\Modules\Employment\Employement.RestApi\obj\Debug\net6.0\Employement.RestApi.csproj.CopyComplete
+E:\IQTechNew\Modules\Employment\Employement.RestApi\obj\Debug\net6.0\Employement.RestApi.dll
+E:\IQTechNew\Modules\Employment\Employement.RestApi\obj\Debug\net6.0\refint\Employement.RestApi.dll
+E:\IQTechNew\Modules\Employment\Employement.RestApi\obj\Debug\net6.0\Employement.RestApi.pdb
+E:\IQTechNew\Modules\Employment\Employement.RestApi\obj\Debug\net6.0\ref\Employement.RestApi.dll

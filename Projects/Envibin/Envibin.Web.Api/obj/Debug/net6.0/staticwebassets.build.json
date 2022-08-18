@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Wor7jTA+VlOZmACTiWP2MCd2C/ZMGQ5Y1sNmanlaFKI=",
+  "Source": "Envibin.Web.Api",
+  "BasePath": "_content/Envibin.Web.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

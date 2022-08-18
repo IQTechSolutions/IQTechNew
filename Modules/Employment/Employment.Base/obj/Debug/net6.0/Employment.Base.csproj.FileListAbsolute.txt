@@ -1,0 +1,12 @@
+E:\IQTechNew\Modules\Employment\Employment.Base\bin\Debug\net6.0\Employment.Base.deps.json
+E:\IQTechNew\Modules\Employment\Employment.Base\bin\Debug\net6.0\Employment.Base.dll
+E:\IQTechNew\Modules\Employment\Employment.Base\bin\Debug\net6.0\Employment.Base.pdb
+E:\IQTechNew\Modules\Employment\Employment.Base\obj\Debug\net6.0\Employment.Base.csproj.AssemblyReference.cache
+E:\IQTechNew\Modules\Employment\Employment.Base\obj\Debug\net6.0\Employment.Base.GeneratedMSBuildEditorConfig.editorconfig
+E:\IQTechNew\Modules\Employment\Employment.Base\obj\Debug\net6.0\Employment.Base.AssemblyInfoInputs.cache
+E:\IQTechNew\Modules\Employment\Employment.Base\obj\Debug\net6.0\Employment.Base.AssemblyInfo.cs
+E:\IQTechNew\Modules\Employment\Employment.Base\obj\Debug\net6.0\Employment.Base.csproj.CoreCompileInputs.cache
+E:\IQTechNew\Modules\Employment\Employment.Base\obj\Debug\net6.0\Employment.Base.dll
+E:\IQTechNew\Modules\Employment\Employment.Base\obj\Debug\net6.0\refint\Employment.Base.dll
+E:\IQTechNew\Modules\Employment\Employment.Base\obj\Debug\net6.0\Employment.Base.pdb
+E:\IQTechNew\Modules\Employment\Employment.Base\obj\Debug\net6.0\ref\Employment.Base.dll

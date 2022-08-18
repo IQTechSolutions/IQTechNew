@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Employment.Services.Contracts/1.0.0": {
+        "dependencies": {
+          "Employment.Base": "1.0.0"
+        },
+        "runtime": {
+          "Employment.Services.Contracts.dll": {}
+        }
+      },
+      "Employment.Base/1.0.0": {
+        "runtime": {
+          "Employment.Base.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Employment.Services.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Employment.Base/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

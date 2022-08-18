@@ -1,0 +1,15 @@
+E:\IQTechNew\Projects\Envibin\Envibin.Web.DataStores\bin\Debug\net6.0\Envibin.Web.DataStores.deps.json
+E:\IQTechNew\Projects\Envibin\Envibin.Web.DataStores\bin\Debug\net6.0\Envibin.Web.DataStores.dll
+E:\IQTechNew\Projects\Envibin\Envibin.Web.DataStores\bin\Debug\net6.0\Envibin.Web.DataStores.pdb
+E:\IQTechNew\Projects\Envibin\Envibin.Web.DataStores\bin\Debug\net6.0\Employment.Base.dll
+E:\IQTechNew\Projects\Envibin\Envibin.Web.DataStores\bin\Debug\net6.0\Employment.Base.pdb
+E:\IQTechNew\Projects\Envibin\Envibin.Web.DataStores\obj\Debug\net6.0\Envibin.Web.DataStores.csproj.AssemblyReference.cache
+E:\IQTechNew\Projects\Envibin\Envibin.Web.DataStores\obj\Debug\net6.0\Envibin.Web.DataStores.GeneratedMSBuildEditorConfig.editorconfig
+E:\IQTechNew\Projects\Envibin\Envibin.Web.DataStores\obj\Debug\net6.0\Envibin.Web.DataStores.AssemblyInfoInputs.cache
+E:\IQTechNew\Projects\Envibin\Envibin.Web.DataStores\obj\Debug\net6.0\Envibin.Web.DataStores.AssemblyInfo.cs
+E:\IQTechNew\Projects\Envibin\Envibin.Web.DataStores\obj\Debug\net6.0\Envibin.Web.DataStores.csproj.CoreCompileInputs.cache
+E:\IQTechNew\Projects\Envibin\Envibin.Web.DataStores\obj\Debug\net6.0\Envibin.Web.DataStores.csproj.CopyComplete
+E:\IQTechNew\Projects\Envibin\Envibin.Web.DataStores\obj\Debug\net6.0\Envibin.Web.DataStores.dll
+E:\IQTechNew\Projects\Envibin\Envibin.Web.DataStores\obj\Debug\net6.0\refint\Envibin.Web.DataStores.dll
+E:\IQTechNew\Projects\Envibin\Envibin.Web.DataStores\obj\Debug\net6.0\Envibin.Web.DataStores.pdb
+E:\IQTechNew\Projects\Envibin\Envibin.Web.DataStores\obj\Debug\net6.0\ref\Envibin.Web.DataStores.dll
